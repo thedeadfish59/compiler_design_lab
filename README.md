@@ -40,4 +40,4 @@ if no errors are found (always ignore warnings, those aint issues), final output
 
 ./a.out
 
-hit enter, now our program is ready to test, type a verb/any word to verify or check our desired result, to terminate the program, hit Ctrl+C, the program will be terminated
+hit enter, now our program is ready to test, type a verb/any word to verify or check our desired result, to terminate the program, hit Ctrl+D, the program will be terminated
