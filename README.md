@@ -27,7 +27,7 @@ then hit enter, again hit enter, file will be saved!
 compile it using flex compiler, to do so, type
 
 
-flex program2.l
+flex program1.l
 
 
 hit enter, then if no errors are found, type
