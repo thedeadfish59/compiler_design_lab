@@ -37,5 +37,7 @@ gcc lex.yy.c -lfl
 
 
 if no errors are found (always ignore warnings, those aint issues), final output file called a.out will be created, now to execute .out file, type
+
 ./a.out
+
 hit enter, now our program is ready to test, type a verb/any word to verify or check our desired result, to terminate the program, hit Ctrl+C, the program will be terminated
