@@ -11,7 +11,7 @@ or we can follow how our Anupam sir taught us to write the code,(uses VIM) way d
 Right click on desktop, hit Open in terminal, type:
 
 
-#vi program1.l
+vi program1.l
 
 
 then hit I on keyboard, the insert command will be executed, so that you will able to write code,
