@@ -65,3 +65,5 @@ To terminate the program, hit Ctrl+D, the program will be terminated
 
 ### Guide by:
 ### thedeadfish59@github.com
+
+Don't hesitate to ask any questions, create any issue or any pull request if I made anything wrong in codes, I used Deepin OS (Based on Debian), but same instruction is applicable for any distros
