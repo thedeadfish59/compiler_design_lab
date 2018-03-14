@@ -1,4 +1,4 @@
-Compiler Design Codes
+#!Compiler Design Codes
 
 all we need is flex compiler/binaries, in order to do lab tasks, to install flex on Ubuntu, type in terminal:(right click on desktop and click open in terminal and then use this command)
 
