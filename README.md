@@ -62,5 +62,5 @@ hit enter, now our program is ready to test, type a verb/any word to verify or c
 ### Termination/Exit:
 To terminate the program, hit Ctrl+D, the program will be terminated
 
-
+### Guide by:
 ### thedeadfish59@github.com
