@@ -4,7 +4,7 @@ This repository is made to make easier to understand our 6th Sem Compiler Design
 
 ### Setting up Environment on Linux:
 
-All we need is flex compiler/binaries, in order to do lab tasks, to install flex on Ubuntu, type in terminal:(right click on desktop and click open in terminal and then use this command)
+All we need is flex compiler/binaries, in order to do lab tasks, to install flex on Linux (i.e Ubuntu), type in terminal:(right click on desktop and click open in terminal and then use this command)
 
 
  `sudo apt install flex `
