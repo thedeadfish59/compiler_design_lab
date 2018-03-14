@@ -20,7 +20,8 @@ Now we can use any text editor to write our code, and save it in a form ***.l (i
 
 ![](https://github.com/thedeadfish59/compiler_design_lab/raw/master/DeepinScreenshot_20180314171306.png)
 
-or we can follow how our Anupam sir taught us to write the code,(uses VIM) way described below:
+### OR 
+We can follow how our Anupam sir taught us to write the code,(uses VIM) way described below:
 Right click on desktop, hit Open in terminal, type:
 
  `vi program1.l`
