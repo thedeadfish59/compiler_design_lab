@@ -6,8 +6,12 @@ all we need is flex compiler/binaries, in order to do lab tasks, to install flex
 sudo apt install flex
 
 
-and then hit enter, give password and hit enter. wait and installation will be done.
-now we can use any text editor to write our code, and save it in a form ***.l (i.e program1.l )
+and then hit enter, give password and hit enter. wait and installation will be done. 
+Note: The installation needs to be done only first time, once you installed it, it isnt necessary to do that again and again before compiling 
+
+
+
+Now we can use any text editor to write our code, and save it in a form ***.l (i.e program1.l )
 or we can follow how our Anupam sir taught us to write the code,(uses VIM) way described below:
 Right click on desktop, hit Open in terminal, type:
 
